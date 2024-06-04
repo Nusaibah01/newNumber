@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#h1{
+    text-align: center;
+    color: tan;
+}
+#form{
+    text-align: center;
+    padding: 10px;
+}
+#display{
+    border: solid salmon;
+    border-radius: 5px;
+}
+#button{
+    border-radius: 5px;
+    background-color: indianred;
+    color: tan;
+    border: 2px solid salmon;
+}

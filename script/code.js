@@ -7,6 +7,6 @@ function newNumber(){
 
     }else{
         currentIndex = 0
-    }
 }
-console.log(numbers)
+document.querySelector('#display').value = numbers[currentIndex]
+}
